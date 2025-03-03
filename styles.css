@@ -1,4 +1,4 @@
-.grid-container {
+.holder {
     display: grid;
     width: 400px;
     height: 400px; 
@@ -7,7 +7,7 @@
     background-color: lightgray;
 }
 
-.holder {
+.holder-1 {
     display: flex;
     justify-content: center;
     align-items: center;
