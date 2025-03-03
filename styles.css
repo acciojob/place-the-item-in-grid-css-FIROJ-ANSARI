@@ -4,7 +4,6 @@
     height: 400px; 
     grid-template-rows: repeat(2, 200px);
     grid-template-columns: repeat(2, 200px);
-    gap: 5px; 
     background-color: lightgray;
 }
 
